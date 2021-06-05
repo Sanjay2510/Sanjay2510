@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align='Center'>
- Hi! I am <b>Sanjay Maity/b>.<br/>
+ Hi! I am <b>Sanjay Maity</b>.<br/>
  I am a student of <b>Kalinga Institute of Industrial Technology, Bhubneswar</b>.<br/>
  </p>
  
